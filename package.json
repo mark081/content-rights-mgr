@@ -1,0 +1,25 @@
+{
+  "name": "content-rights-mgr",
+  "version": "1.0.0",
+  "description": "A lightweght library to manage media content rights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark081/content-rights-mgr.git"
+  },
+  "keywords": [
+    "CONTENT",
+    "DEVICE",
+    "ACCOUNT",
+    "RIGHTS"
+  ],
+  "author": "Mark Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark081/content-rights-mgr/issues"
+  },
+  "homepage": "https://github.com/mark081/content-rights-mgr#readme"
+}
